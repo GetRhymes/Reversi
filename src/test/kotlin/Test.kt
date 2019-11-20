@@ -62,6 +62,7 @@ class Test {
         assertEquals(4, move2(boardTest1))
     }
 
+
     @Test
     @Tag("Easy")
     fun testMove2() {
